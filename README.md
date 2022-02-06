@@ -4,8 +4,14 @@ Start Using github and do some easy operations in this repository
 |  ----  | ----  |
 | 单元格  | 单元格 |
 | 单元格  | 单元格 |
-
-
+`printf()`
+这是一个链接 [菜鸟教程](https://www.runoob.com)
+```python
+def printa():
+    print("sadas")
+    return True
+ ```
+ 
 创建脚注格式类似这样 [^RUNOOB]。
 
 [^RUNOOB]: 菜鸟教程 -- 学的不仅是技术，更是梦想！！！
