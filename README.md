@@ -16,3 +16,11 @@ Start Using github and do some easy operations in this repository
 创建脚注格式类似这样 [^3]
 
 [^3]: 菜鸟教程 -- 学的不仅是技术，更是梦想！！！
+
+创建脚注格式类似这样 [^aaaa]
+
+[^aaaa]: 菜鸟教程 -- 
+
+创建脚注格式类似这样 [^aaaaaaaaa]
+
+[^aa]: 菜鸟教程 -- 学的不仅是技术，更是梦想！！！
