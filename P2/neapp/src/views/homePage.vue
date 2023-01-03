@@ -50,10 +50,10 @@ h1 {
 //大容器样式
 .container {
   min-width: 15rem; //1200px
-  max-width: 2560px; //2048px
-  // min-height: 1080px;    //根据显示器分辨率来设置容器的宽高比
+  max-width: 32rem; //2048px
+  //min-height: 1080px;    //根据显示器分辨率来设置容器的宽高比
   // max-height: 1500px;   
-  height: 20rem;
+  height: 15rem;
   margin: 0 auto;
   border: 1px solid red;
   padding: .125rem .125rem 0;
